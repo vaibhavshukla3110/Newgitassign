@@ -1,0 +1,1 @@
+// This javascript file is of no use right now
